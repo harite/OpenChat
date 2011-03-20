@@ -1,0 +1,7 @@
+ronaldo 8777
+
+2
+ramos localhost 8778
+casillas localhost 8782
+
+0

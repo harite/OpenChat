@@ -1,0 +1,11 @@
+ramos 8778
+
+4
+casillas localhost 8782
+puyol localhost 8779
+ronaldo localhost 8777
+villa localhost 8781
+
+2
+club 2 casillas ronaldo 
+national 3 casillas puyol villa 

@@ -1,0 +1,12 @@
+puyol 8779
+
+4
+ramos localhost 8778
+messi localhost 8780
+villa localhost 8781
+casillas localhost 8782
+
+3
+club 2 messi villa
+national 4 ramos messi villa casillas
+hate 1 ramos 
